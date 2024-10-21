@@ -1,3 +1,7 @@
+![Alt text](/2._Host_a_WordPress_Website_on_AWS.png)
+
+
+
 # WordPress Website Hosting on AWS
 
 This README provides an overview of the project where a WordPress website was hosted on AWS using various services and configurations for optimal performance and security.
